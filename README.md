@@ -44,8 +44,8 @@ Download GenAI-generated business reports.
 Clone this repo:
 
 bash
-git clone https://github.com/yourusername/pjm-energy-forecast-genai.git
-cd pjm-energy-forecast-genai
+git clone [https://github.com/yourusername/pjm-energy-forecast-genai.git
+cd pjm-energy-forecast-genai](https://github.com/Jeetibp/PJM-Energy-Forecast-GenAi/blob/main/README.md)
 Add your data:
 
 Place PJMW_hourly.csv or PJMW_MW_Hourly.xlsx in the project root.
